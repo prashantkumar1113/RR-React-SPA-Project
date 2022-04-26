@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Portfolio() {
-    return <p>Portfolio</p>;
+    return <h2>Portfolio</h2>;
 }

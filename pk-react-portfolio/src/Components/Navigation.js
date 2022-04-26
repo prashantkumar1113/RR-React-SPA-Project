@@ -9,7 +9,7 @@ export default function Navigation() {
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand to="/">P:\rashant\Ku.mar</Navbar.Brand>
-                <Nav className="me-auto">
+                <Nav>
                     {/* <Nav.Link href="#home">About</Nav.Link>
                         <Nav.Link href="#features">Portfolio</Nav.Link>
                         <Nav.Link href="#pricing">Contact</Nav.Link> */}
