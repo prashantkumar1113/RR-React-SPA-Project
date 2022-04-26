@@ -27,19 +27,19 @@ export default function Sidebar() {
         <>
             {githubUser.avatar_url}
             <br />
-            <i class="fab fa-facebook"></i>
+            <i className="fab fa-facebook"></i>
             <br />
-            <i class="fab fa-twitter"></i>
+            <i className="fab fa-twitter"></i>
             <br />
-            <i class="fab fa-github"></i>
+            <i className="fab fa-github"></i>
             <br />
-            <i class="fab fa-linkedin"></i>
+            <i className="fab fa-linkedin"></i>
             <br />
-            <i class="fab fa-behance"></i>
+            <i className="fab fa-behance"></i>
             <br />
-            <i class="fab fa-instagram"></i>
+            <i className="fab fa-instagram"></i>
             <br />
-            <i class="fab fa-pinterest"></i>
+            <i className="fab fa-pinterest"></i>
         </>
     );
 }

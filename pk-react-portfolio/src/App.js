@@ -17,7 +17,7 @@ function App() {
             <Router>
                 <Navigation />
                 <Container>
-                    <Row>
+                    <Row className="mt-3">
                         <Col md={3}>
                             <Sidebar />
                         </Col>
